@@ -1,0 +1,9 @@
+C:\Users\HP\Desktop\Odev2\Odev2\bin\Debug\Odev2.exe.config
+C:\Users\HP\Desktop\Odev2\Odev2\obj\Debug\Odev2.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\Odev2\Odev2\obj\Debug\Odev2.Form1.resources
+C:\Users\HP\Desktop\Odev2\Odev2\obj\Debug\Odev2.Properties.Resources.resources
+C:\Users\HP\Desktop\Odev2\Odev2\obj\Debug\Odev2.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\Odev2\Odev2\bin\Debug\Odev2.exe
+C:\Users\HP\Desktop\Odev2\Odev2\bin\Debug\Odev2.pdb
+C:\Users\HP\Desktop\Odev2\Odev2\obj\Debug\Odev2.exe
+C:\Users\HP\Desktop\Odev2\Odev2\obj\Debug\Odev2.pdb
