@@ -1,2 +1,2 @@
 # Car-Park_Project
-Bağlı liste, Kuyruk, Yığın veri yapıları kullanılarak c#'ta geliştirildi.
+Developed in c # using Linked List, Stack and Queue data structures.
